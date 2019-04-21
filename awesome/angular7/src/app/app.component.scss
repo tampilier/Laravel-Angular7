@@ -1,0 +1,13 @@
+ul {
+
+  &>li {
+
+    &>a {
+      cursor: pointer;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
