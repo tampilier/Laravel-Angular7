@@ -1,4 +1,4 @@
-# Laravel+Angular7
+# Laravel 5.8 + Angular 7
 
 sudo apt-get install composer php7.2-xsl php7.2-zip php7.2-mbstring libapache2-mod-php7.2
 
