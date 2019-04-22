@@ -11,5 +11,6 @@ composer create-project laravel/laravel --prefer-dist
 sudo service nginx stop 
 cd /var/www/awesome/laravel/ && chmod -R 777 storage && chmod 777 bootstrap/cache && sudo service nginx stop && sudo php artisan serve  --host 0.0.0.0 --port 80
 
-cd /var/www/awesome/ && mkdir angular && cd angular && 
+cd /var/www/awesome/ && 
 sudo npm install -g @angular/cli
+
